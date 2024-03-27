@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqlted&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqlted&layout=compact&theme=vision-friendly-dark">
 
   <a href="https://www.youtube.com/channel/UCCQhN-97srxS5mCWlAnRsdw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
