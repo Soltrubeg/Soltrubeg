@@ -5,4 +5,4 @@
   </a>
   <a href="https://steamcommunity.com/id/Tqlted/">
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Youtube Badge"/>
-  </a>a>
+  </a>
