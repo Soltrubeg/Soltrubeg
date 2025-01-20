@@ -3,6 +3,6 @@
   <a href="https://www.youtube.com/channel/UCCQhN-97srxS5mCWlAnRsdw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://steamcommunity.com/id/Tqlted/">
+  <a href="https://steamcommunity.com/id/Soltrubeg/">
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Youtube Badge"/>
   </a>
