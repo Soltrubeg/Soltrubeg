@@ -1,9 +1,9 @@
 <div align="left">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="30" alt="godot logo" />
+  <img src="https://api.iconify.design/catppuccin:rust.svg?height=30" />       
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://api.iconify.design/catppuccin:csharp.svg?height=30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://api.iconify.design/catppuccin:godot.svg?height=30" />
 </div>
 
